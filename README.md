@@ -1,4 +1,4 @@
-LinkClassifier
+LinkClassifier projet
 Description
 LinkClassifier est une application Streamlit qui permet de classifier des URLs en se basant sur le contenu des pages web pointées par ces URLs. L'application utilise des techniques de scraping web, de traitement du langage naturel (NLP) et de clustering pour analyser et regrouper les URLs.
 
